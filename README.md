@@ -22,3 +22,5 @@ https://devsungyeon.github.io/github%20blog/Google-analytics/
 
 2. 이후  _config.yml파일에서 google_analytics: 'UA-<ID>' 항목을 추가해줍니다. 
 3. 구글 애널리스틱으로 데이터가 들어오는지 확인합니다
+아래 링크를 참조했습니다.
+https://inasie.github.io/it%EC%9D%BC%EB%B0%98/1/
