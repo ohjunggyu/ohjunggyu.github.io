@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "TTC 엔코더 색상별 차이점"
+date:   2021-12-11 19:07:48 +0900
+categories: jekyll update 
+---
+# TTC 엔코더 색상별 차이점
+
+g703이 휠오류가 나고.. 정품인줄 알고 중고 구매했던 마우스가 알고보니 병행이였던 상황에 안되면 버리지 라는 마음으로 자가수리를 결정했습니다. 누가 뭐래도 6만원주고 사서 2년 안되게 알차게 썼으니 제값은 한것이겠죠..
+
+여튼 글을 굉장히 두서없이 쓰는지라 양해부탁드리며 본론으로 들어가겠습니다.
+
+마우스 휠이 완전 멍텅구리가 되어 위아래 주체를 못하는 고장이났습니다.
+
+알아보니 g703고질병 이더군요.
+
+결론적으로 장비도 있고 이런쪽에 능통한지라 직접하고 아님 버리겠다 라는 생각에 자가수리를 진행하기로 했습니다.
+
+엔코더를 교체해야 하기에 알아보던중 ttc엔코더가 국룰(?)임을 알게되고 알리에서 구매를 하려는데
+
+색상이 여러가지 였습니다.
+
+노랑 초록 빨강 세가지가 보였고 많이 쓰는건 노랑 초록 정도인듯 하였으나.. 세가지 다 직감적으로 뭔가 다른것이겠다 라는 생각을 하게 되었습니다.
+
+이런거 두고두고 쓰는 성격이라 세개다 두개씩 구매했고 다 돌려보고 차이점에 대한 글을 올려봅니다.
+
+
+
+![img](https://mcafethumb-phinf.pstatic.net/MjAyMDEwMTVfMjkx/MDAxNjAyNjk3ODMzMjg5.kBL9TwAne_dm7ac49sRKu_yeEeifUgQQp6xiE262pJAg.N_6tIk6s0vQQ4TTwTdNuLphTJwT3kvJUJyga-c7w16Ug.JPEG/IMG_0363.jpg?type=w1600)
+
+
+
+![img](https://mcafethumb-phinf.pstatic.net/MjAyMDEwMTVfMyAg/MDAxNjAyNjk3ODI5NDU5.53yjpGJlQMBd1_GVhwkV5ZOLSxNsGXTtTopQSMVLr_0g.dhcZi3-2vDIz4webSU6Xw-wbuhb89KXvOkzgupYo63Qg.JPEG/IMG_0365.jpg?type=w1600)
+
+
+
+![img](https://mcafethumb-phinf.pstatic.net/MjAyMDEwMTVfMjM1/MDAxNjAyNjk3ODI5NDY0.5VbGLz2cXw85tn0PFjssUyEYuYu2nAG9xXSw3OLDpoog.PgTgVdv-kL0a1NkpCueTUQGesUXHD8dI9vROE2U1Jckg.JPEG/IMG_0366.jpg?type=w1600)
+
+
+
+위의 사진을 보면 일단 기본적으로 노랑 청록색(?) 빨간색 순으로 높이가 높습니다.
+
+요기서만 보면 높이가 높다-> 스프링 장력이 쎄다-> 클릭감이 쎄다 라고 결론이 날수 있습니다.
+
+하지만.. 잘 보시면 이빨이 물린것이 높이가 높을수록 약하게 물려 있습니다.
+
+노란색을 보시면 완전히 이빨을 물었구요. 청록색을 보면 이빨이 다소 높구요. 빨간색을 보면 이빨이 다소 얕습니다.
+
+그말인 즉 노랑 > 청록 > 빨강 순으로 클릭감이 쎄다 는것을 알수 있습니다.
+
+개인적으로 이빨 갯수 세었을때는 차이 없는것으로 봤습니다.
+
+인식은 전부 잘 됩니다. 소리는 빨간색이 가장 작고 그다음 청록, 노랑 순서로 소리가 큽니다.
+
+여튼 알리에서 세가지 다 구매 했고.. 세가지 다 써본결과 취향에 맞춰서 가시면 됩니다.
+
+클릭감 구분감이 확실하기를 바라시면 황색
+
+클릭감 구분감이 조금 덜하기를 바라시면 청록
+
+클릭감 구분감이 거의 없기를 바라시면 적색 가시면 좋을듯합니다.
+
+﻿
